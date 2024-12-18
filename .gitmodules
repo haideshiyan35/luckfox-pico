@@ -1,3 +1,6 @@
 [submodule "ubuntu"]
 	path = sysdrv/tools/board/ubuntu
 	url = https://github.com/luckfox-eng33/pico_ubuntu.git
+[submodule "project/app/extn_app"]
+	path = project/app/extn_app
+	url = git@github.com:haideshiyan35/embed-linux_app.git
